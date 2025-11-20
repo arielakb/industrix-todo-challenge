@@ -23,10 +23,10 @@ A modern, full-stack Todo List application built with React, TypeScript, Node.js
 - ✅ **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
 
 ### Bonus Features 🎁
-- ✅ **TypeScript**: Full type safety on frontend (+2 points)
-- ✅ **React Context API**: Global state management (+6 points)
-- ✅ **Advanced Filters**: Multiple filter combinations (+5 points)
-- ✅ **Unit Tests**: Comprehensive backend tests with 85%+ coverage (+10 points)
+- ✅ **TypeScript**: Full type safety on frontend 
+- ✅ **React Context API**: Global state management 
+- ✅ **Advanced Filters**: Multiple filter combinations 
+- ✅ **Unit Tests**: Comprehensive backend tests with 85%+ coverage 
 
 ---
 
